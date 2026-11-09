@@ -1,0 +1,59 @@
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+*.so
+.eggs/
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── Environment variables ─────────────────────────────────────────────────────
+.env
+.env.local
+.env.*.local
+
+# ── Data files (too large for git) ───────────────────────────────────────────
+data/raw/
+data/chroma/
+data/structured/embeddings_meta.json
+document.pdf
+
+# ── Neo4j / Docker volumes ────────────────────────────────────────────────────
+neo4j_data/
+neo4j_logs/
+neo4j_import/
+neo4j_plugins/
+
+# ── Node / Next.js ────────────────────────────────────────────────────────────
+frontend/node_modules/
+frontend/.next/
+frontend/.pnpm-store/
+
+# ── IDE / OS ──────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+logs/

@@ -1,0 +1,626 @@
+[
+  {
+    "protocol_id": "Protocol-1",
+    "number": "1",
+    "name": "sur le rôle des parlements nationaux dans l'Union européenne . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "page": 9,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-2",
+    "number": "2",
+    "name": "sur l'application des principes de subsidiarité et de proportionna­ lité . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "page": 9,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-3",
+    "number": "3",
+    "name": "sur le statut de la Cour de justice de l'Union européenne . . . .",
+    "page": 9,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-4",
+    "number": "4",
+    "name": "sur les statuts du Système européen de banques centrales et de la",
+    "page": 9,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-5",
+    "number": "5",
+    "name": "sur les statuts de la Banque européenne d'investissement . . . . . .",
+    "page": 9,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-6",
+    "number": "6",
+    "name": "sur la fixation des sièges des institutions et de certains organes, organismes et services de l'Union européenne . . . . . . . . . . . . .",
+    "page": 9,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-7",
+    "number": "7",
+    "name": "sur les privilèges et immunités de l'Union européenne . . . . . . .",
+    "page": 9,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-8",
+    "number": "8",
+    "name": "relatif à l'article 6, paragraphe 2, du traité sur l'Union européenne sur l'adhésion de l'Union à la Convention européenne de sauve­ garde des droits de l'homme et des libertés fondamentales . . . .",
+    "page": 9,
+    "parent_treaty": "TFEU",
+    "references": [
+      {
+        "target_id": "TUE-Art-6-P2",
+        "treaty": "TUE",
+        "article": "6",
+        "paragraph": 2,
+        "text": "l'article 6, paragraphe 2, du traité sur l'Union européenne"
+      }
+    ]
+  },
+  {
+    "protocol_id": "Protocol-9",
+    "number": "9",
+    "name": "sur la décision du Conseil relative à la mise en œuvre des articles",
+    "page": 9,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-10",
+    "number": "10",
+    "name": "sur la coopération structurée permanente établie par l'article 42 du traité sur l'Union européenne . . . . . . . . . . . . . . . . . . . . . . .",
+    "page": 9,
+    "parent_treaty": "TFEU",
+    "references": [
+      {
+        "target_id": "TUE-Art-42",
+        "treaty": "TUE",
+        "article": "42",
+        "paragraph": null,
+        "text": "l'article 42 du traité sur l'Union européenne"
+      }
+    ]
+  },
+  {
+    "protocol_id": "Protocol-11",
+    "number": "11",
+    "name": "sur l'article 42 du traité sur l'Union européenne . . . . . . . . . . .",
+    "page": 9,
+    "parent_treaty": "TFEU",
+    "references": [
+      {
+        "target_id": "TUE-Art-42",
+        "treaty": "TUE",
+        "article": "42",
+        "paragraph": null,
+        "text": "l'article 42 du traité sur l'Union européenne"
+      }
+    ]
+  },
+  {
+    "protocol_id": "Protocol-12",
+    "number": "12",
+    "name": "sur la procédure concernant les déficits excessifs . . . . . . . . . . . .",
+    "page": 9,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-13",
+    "number": "13",
+    "name": "sur les critères de convergence . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "page": 9,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-14",
+    "number": "14",
+    "name": "sur l'Eurogroupe . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "page": 9,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-15",
+    "number": "15",
+    "name": "sur certaines dispositions relatives au Royaume-Uni de GrandeBretagne et d'Irlande du Nord . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "page": 10,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-16",
+    "number": "16",
+    "name": "sur certaines dispositions relatives au Danemark . . . . . . . . . . . .",
+    "page": 10,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-17",
+    "number": "17",
+    "name": "sur le Danemark . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "page": 10,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-18",
+    "number": "18",
+    "name": "sur la France . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "page": 10,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-19",
+    "number": "19",
+    "name": "sur l'acquis de Schengen intégré dans le cadre de l'Union euro­ péenne . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "page": 10,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-20",
+    "number": "20",
+    "name": "sur l'application de certains aspects de l'article 26 du traité sur le fonctionnement de l'Union européenne au Royaume-Uni et à l'Irlande . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "page": 10,
+    "parent_treaty": "TFEU",
+    "references": [
+      {
+        "target_id": "TFEU-Art-26",
+        "treaty": "TFEU",
+        "article": "26",
+        "paragraph": null,
+        "text": "l'article 26 du traité sur le fonctionnement de l'Union européenne"
+      }
+    ]
+  },
+  {
+    "protocol_id": "Protocol-21",
+    "number": "21",
+    "name": "sur la position du Royaume-Uni et de l'Irlande à l'égard de l'es­ pace de liberté, de sécurité et de justice . . . . . . . . . . . . . . . . . .",
+    "page": 10,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-22",
+    "number": "22",
+    "name": "sur la position du Danemark . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "page": 10,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-23",
+    "number": "23",
+    "name": "sur les relations extérieures des États membres en ce qui concerne le franchissement des frontières extérieures . . . . . . . . . . . . . . .",
+    "page": 10,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-24",
+    "number": "24",
+    "name": "sur le droit d'asile pour les ressortissants des États membres de l'Union européenne . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "page": 10,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-25",
+    "number": "25",
+    "name": "sur l'exercice des compétences partagées . . . . . . . . . . . . . . . . . .",
+    "page": 10,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-26",
+    "number": "26",
+    "name": "sur les services d'intérêt général . . . . . . . . . . . . . . . . . . . . . . . .",
+    "page": 10,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-27",
+    "number": "27",
+    "name": "sur le marché intérieur et la concurrence . . . . . . . . . . . . . . . . .",
+    "page": 10,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-28",
+    "number": "28",
+    "name": "sur la cohésion économique, sociale et territoriale . . . . . . . . . . .",
+    "page": 10,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-29",
+    "number": "29",
+    "name": "sur le système de radiodiffusion publique dans les États membres",
+    "page": 10,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-30",
+    "number": "30",
+    "name": "sur l'application de la Charte des droits fondamentaux de l'Union européenne à la Pologne et au Royaume-Uni . . . . . . . . . . . . . .",
+    "page": 10,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-31",
+    "number": "31",
+    "name": "relatif aux importations dans l'Union européenne de produits pétroliers raffinés aux Antilles néerlandaises . . . . . . . . . . . . . . .",
+    "page": 10,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-32",
+    "number": "32",
+    "name": "sur l'acquisition de biens immobiliers au Danemark . . . . . . . . .",
+    "page": 10,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-33",
+    "number": "33",
+    "name": "sur l'article 157 du traité sur le fonctionnement de l'Union euro­ péenne . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "page": 10,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-34",
+    "number": "34",
+    "name": "sur le régime particulier applicable au Groenland . . . . . . . . . . .",
+    "page": 11,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-35",
+    "number": "35",
+    "name": "sur l'article 40.3.3 de la Constitution de l'Irlande . . . . . . . . . . .",
+    "page": 11,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-36",
+    "number": "36",
+    "name": "sur les dispositions transitoires . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "page": 11,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-37",
+    "number": "37",
+    "name": "relatif aux conséquences financières de l'expiration du traité CECA et au fonds de recherche du charbon et de l'acier . . . . . . . . . .",
+    "page": 11,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-1",
+    "number": "1",
+    "name": "",
+    "page": 205,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-2",
+    "number": "2",
+    "name": "",
+    "page": 208,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-3",
+    "number": "3",
+    "name": "",
+    "page": 212,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-4",
+    "number": "4",
+    "name": "",
+    "page": 232,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-5",
+    "number": "5",
+    "name": "",
+    "page": 253,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-6",
+    "number": "6",
+    "name": "",
+    "page": 267,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-7",
+    "number": "7",
+    "name": "",
+    "page": 268,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-8",
+    "number": "8",
+    "name": "",
+    "page": 275,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-9",
+    "number": "9",
+    "name": "",
+    "page": 276,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-10",
+    "number": "10",
+    "name": "",
+    "page": 277,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-11",
+    "number": "11",
+    "name": "",
+    "page": 280,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-12",
+    "number": "12",
+    "name": "",
+    "page": 281,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-13",
+    "number": "13",
+    "name": "",
+    "page": 283,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-14",
+    "number": "14",
+    "name": "",
+    "page": 285,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-15",
+    "number": "15",
+    "name": "",
+    "page": 286,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-16",
+    "number": "16",
+    "name": "",
+    "page": 289,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-17",
+    "number": "17",
+    "name": "",
+    "page": 290,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-18",
+    "number": "18",
+    "name": "",
+    "page": 291,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-19",
+    "number": "19",
+    "name": "",
+    "page": 292,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-20",
+    "number": "20",
+    "name": "",
+    "page": 295,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-21",
+    "number": "21",
+    "name": "",
+    "page": 297,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-22",
+    "number": "22",
+    "name": "",
+    "page": 300,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-23",
+    "number": "23",
+    "name": "",
+    "page": 305,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-24",
+    "number": "24",
+    "name": "",
+    "page": 306,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-25",
+    "number": "25",
+    "name": "",
+    "page": 308,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-26",
+    "number": "26",
+    "name": "",
+    "page": 309,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-27",
+    "number": "27",
+    "name": "",
+    "page": 310,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-28",
+    "number": "28",
+    "name": "",
+    "page": 311,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-29",
+    "number": "29",
+    "name": "",
+    "page": 313,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-30",
+    "number": "30",
+    "name": "",
+    "page": 314,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-31",
+    "number": "31",
+    "name": "",
+    "page": 316,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-32",
+    "number": "32",
+    "name": "",
+    "page": 319,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-33",
+    "number": "33",
+    "name": "",
+    "page": 320,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-34",
+    "number": "34",
+    "name": "",
+    "page": 321,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-35",
+    "number": "35",
+    "name": "",
+    "page": 322,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-36",
+    "number": "36",
+    "name": "",
+    "page": 323,
+    "parent_treaty": "TFEU",
+    "references": []
+  },
+  {
+    "protocol_id": "Protocol-37",
+    "number": "37",
+    "name": "",
+    "page": 329,
+    "parent_treaty": "TFEU",
+    "references": []
+  }
+]

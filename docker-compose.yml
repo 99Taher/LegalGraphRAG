@@ -1,0 +1,35 @@
+version: "3.9"
+
+services:
+  neo4j:
+    image: neo4j:5.20-community
+    container_name: legal-graphrag-neo4j
+    ports:
+      - "7474:7474"   # HTTP Browser UI
+      - "7687:7687"   # Bolt protocol
+    environment:
+      - NEO4J_AUTH=neo4j/legalrag123
+      - NEO4J_PLUGINS=["apoc"]
+      - NEO4J_apoc_export_file_enabled=true
+      - NEO4J_apoc_import_file_enabled=true
+      - NEO4J_dbms_security_procedures_unrestricted=apoc.*
+    volumes:
+      - neo4j_data:/data
+      - neo4j_logs:/logs
+      - neo4j_import:/var/lib/neo4j/import
+    restart: unless-stopped
+
+  chromadb:
+    image: chromadb/chroma:latest
+    container_name: legal-graphrag-chroma
+    ports:
+      - "8001:8000"
+    volumes:
+      - chroma_data:/chroma/chroma
+    restart: unless-stopped
+
+volumes:
+  neo4j_data:
+  neo4j_logs:
+  neo4j_import:
+  chroma_data:

@@ -1,0 +1,91 @@
+@import "tailwindcss";
+
+:root {
+  --bg-primary: #0d1117;
+  --bg-secondary: #161b22;
+  --bg-card: #1c2330;
+  --border: #30363d;
+  --accent: #d4a017;
+  --accent-light: #f0c040;
+  --text-primary: #e6edf3;
+  --text-secondary: #8b949e;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: "Inter", system-ui, sans-serif;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0d1117;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #30363d;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #d4a017;
+}
+
+/* Prose styles for LLM answers */
+.prose-legal p {
+  margin-bottom: 0.75rem;
+  line-height: 1.7;
+}
+
+.prose-legal strong {
+  color: #f0c040;
+  font-weight: 600;
+}
+
+.prose-legal ul,
+.prose-legal ol {
+  padding-left: 1.25rem;
+  margin-bottom: 0.75rem;
+}
+
+.prose-legal li {
+  margin-bottom: 0.25rem;
+}
+
+.prose-legal h1,
+.prose-legal h2,
+.prose-legal h3 {
+  color: #d4a017;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  margin-top: 1rem;
+}
+
+.prose-legal code {
+  background: #1c2330;
+  padding: 0.1rem 0.3rem;
+  border-radius: 3px;
+  font-size: 0.875rem;
+}
+
+/* Typing animation */
+@keyframes blink {
+
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0;
+  }
+}
+
+.cursor-blink {
+  animation: blink 1s step-end infinite;
+}
